@@ -1,2 +1,3 @@
 # TodoList
-create and maintain a continuous task list
+This project will help you maintain a continous task list. 
+This will also help you to syncronize the task.
